@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @MyrsujV2
-- 👀 I’m interested in Java/JS/C++ Developing...
-- 🌱 I’m currently learning C++...
-- 💞️ I'm AC dev
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning java
